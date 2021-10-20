@@ -1,0 +1,42 @@
+<!--author: James Hannon-->
+<!--GID: G00387818-->
+
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<library_data>
+	<catologue category="Technical">
+		<book>
+			<name> Automate the Boring Stuff with Python: Practical Programming for Total Beginners </name>
+			<IBSN-13> 978-1593275990 </IBSN-13>
+			<IBSN-10> 1593275994 </IBSN-10>
+			<author> Al Sweigart </author> 
+
+		</book>
+
+		<book>
+			<name> Python Data Science Handbook </name>
+			<IBSN-13>  978-1491912058 </IBSN-13>
+			<IBSN-10> 1491912057 </IBSN-10>
+			<author> Jake VanderPlas </author> 
+
+		</book>
+	</catologue>
+
+	<catologue category="Cookery">
+		<book>
+			<name> How to Cook Everything - The Basics: All You Need to Make Great Food </name>
+			<IBSN-13> 978-0470528068 </IBSN-13>
+			<IBSN-10> 0470528060 </IBSN-10>
+			<author> Mark Bittman </author> 
+
+		</book>
+
+		<book>
+			<name> The Food Lab: Better Home Cooking Through Science </name>
+			<IBSN-13> 978-0393081084 </IBSN-13>
+			<IBSN-10> 0393081087 </IBSN-10>
+			<author> J. Kenji López-alt </author> 
+
+		</book>
+	</catologue>
+</library_data>
